@@ -1,4 +1,6 @@
-# TSN_DEMO_06_Database
+#EVA_Android_Lab6
 Работа с базой данных SQLite
 
-![Screenshot](Screenshot.png)
+![Screenshot](scr1.png)
+
+![Screenshot](scr2.png)
