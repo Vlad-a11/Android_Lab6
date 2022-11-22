@@ -1,4 +1,4 @@
-#EVA_Android_Lab6
+
 Работа с базой данных SQLite
 
 ![Screenshot](scr1.png)
